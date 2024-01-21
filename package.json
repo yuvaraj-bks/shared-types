@@ -1,0 +1,16 @@
+{
+  "name": "@types/shared",
+  "version": "0.0.1",
+  "description": "",
+  "typings": "index.d.ts",
+  "scripts": {
+  
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
